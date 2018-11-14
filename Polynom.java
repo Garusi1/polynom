@@ -43,7 +43,7 @@ public class Polynom implements Polynom_able,Iterable<Monom>{
 	
 	
 /**
- * string to polynom constructor
+ * String to polynom constructor
  * input such as: 1. +/- (double) x/X ^ (integer>=0)
  *			 	  2. +/- (double)
  * 				  3. +/- (double) * x/X ^ (integer>=0)
